@@ -40,10 +40,11 @@ export default function Home() {
           <p className={clsx('content', styles.content)}>这里是由DragonFly Club团队运营的Minecraft生存服，你可以在这里自由的与朋友生存在DragonCraft上，随心所欲，创造未来。</p>
           <p><b>现在就加入吧！</b></p>
           <h2>这里是属于你的服务器，我们的世界，从现在开始。</h2>
-          <div className={clsx('aspect', styles.aspect)}>
-            padding
-            <iframe src="//dynmap.holger.net.cn/" className={clsx('iframe', styles.iframe)}></iframe>
-          </div>
+          { // <div className={clsx('aspect', styles.aspect)}>
+            //padding
+            //<iframe src="//dynmap.holger.net.cn/" className={clsx('iframe', styles.</div>iframe)}></iframe>
+          //</div>
+          }
         </div>
       </main>
     </Layout>

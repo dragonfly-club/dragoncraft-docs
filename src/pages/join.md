@@ -2,6 +2,10 @@
 
 ## 加入须知
 
+DragonCraft is NOT running at this very moment.
+
+<div style="display: none">
+
 <!--
 > DragonCraft(Public)仅在假期时间开放，目前处在关闭状态，请关注开启动态！
 
@@ -12,7 +16,7 @@ DragonCraft分为两版**不同**服务器，DragonFly(Public)为**公益**的**
 -->
 DragonCraft是**原版生存**服务器，**不设置**生存玩家和管理员以外的权限，**不会索要任何个人隐私、金钱或物品**。
 
-你可在 https://ko-fi.com/dragonflyclub/commissions 购买DCP(DragonCraft Pass)。
+<!--你可在 https://ko-fi.com/dragonflyclub/commissions 购买DCP(DragonCraft Pass)。-->
 
 请勿轻信任何牵扯个人隐私和财产的信息、请不要向任何人透露、在任何非 mojang 官方或自称 mojang 官方的地方输入自己的帐号密码或支付信息。
 
@@ -29,7 +33,7 @@ Public使用AuthMeReloaded插件验证，支持Java/PE Crossplay，为开放服�
 
 ## 加入要求
 
-- 已经[购买Minecraft Java版](https://minecraft.net/)或MinecraftPE及[DCP](https://ko-fi.com/dragonflyclub/commissions)。
+- 已经[购买Minecraft Java版](https://minecraft.net/)或MinecraftPE<!--及[DCP](https://ko-fi.com/dragonflyclub/commissions)-->。
 - 已下载好Minecraft Java/Bedrock 1.20 并使用正版账号登录
 - 已阅读[教程](/help)及[规则](/rules)
 
@@ -56,3 +60,4 @@ Public使用AuthMeReloaded插件验证，支持Java/PE Crossplay，为开放服�
 
 *AD:* 欢迎加入[Island 岛屿](https://mast.dragon-fly.club/about)，[Island 岛屿](https://mast.dragon-fly.club/about)是由Mastodon驱动的一款开源、去中心化的社交平台。截至1/21/2022，中文毛象宇宙住民共104027名，嘟文共16516777条，相信在这里你可以找到一个不一样的自己。
 
+</div>
