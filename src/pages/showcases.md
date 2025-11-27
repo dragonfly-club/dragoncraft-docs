@@ -1,11 +1,11 @@
 # 图库
 
-![castle](https://cdn.dragoncloud.win/dragoncraft-docs/images/castle.png)
+![castle](/img/hero.png)
 
-![underbowl](https://cdn.dragoncloud.win/dragoncraft-docs/images/underbowl.png)
+![underbowl](/img/underbowl.png)
 
-![thehouse](https://cdn.dragoncloud.win/dragoncraft-docs/images/thehouse.png)
+![thehouse](/img/thehouse.png)
 
-![technology](https://cdn.dragoncloud.win/dragoncraft-docs/images/technology.png)
+![technology](/img/technology.png)
 
-![field](https://cdn.dragoncloud.win/dragoncraft-docs/images/field.png)
+![field](/img/field.png)
